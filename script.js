@@ -4,6 +4,8 @@ var repos = [
   				"WTATagStringBuilder",
    				"MTStackViewController",
    				"uicolor-helpers",
+   				"WTAZoomNavigationController",
+   				"xcrake",
    			].sort();
 var repoTemplate;
 
